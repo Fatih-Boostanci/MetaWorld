@@ -1,0 +1,67 @@
+----GITHUB HANDs-ON
+
+1. Sign in to GitHub account.
+
+2. Click to "Create a new repository"
+
+3. Enter your repository name into "Repository name" box.
+
+4. Enter a sentence to "Description" part (i.e. The files  used in training sessions)
+
+5. It's advised to "add a README file"
+
+6. You can select "add .gitignore" as well.
+
+7. Click "Create repository"
+
+8. ---to create token
+
+Click Settings, on the left hand side at the bottom --> "Developer settings"
+"Personal access tokens" -->"Tokens(classic)" -->"Generate new token"-->"Generate new token (classic)"
+Click "Generate token"  (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) (Username: Metaworld-Python)
+
+
+---GitHub Git Operations
+
+1. Create a repo named "deneme"
+
+2. Open your Git Bash terminal     (with Git Bash, or VS Code terminal)
+
+3. Go to your directory that you want to make the loading the file 
+
+cd Desktop/metaworld/
+mkdir deneme
+touch deneme.txt
+
+4. In that file that has same name as in GitHub
+
+git init
+
+5. Before executing other command we have to cofigure our user.email and user.name
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+5. git add .
+
+6. git commit -m "First commit"
+
+7. git status   (branch must be as "master") (If not git branch -M master)
+
+8. git remote add origin https://github.com/Metaworld-Python/deneme.git
+
+9. git config --global credential.helper store   (to eliminate password process after first time)
+
+10. git push -u origin master
+
+
+--- Pull Files from a GitHub Account to Local
+
+1. Create an senior folder and another folder in senior folder as same name with the folder in GitHub
+
+2. Go to senior folder.
+
+3. git init (if necessary)
+
+3. git clone <https:... "GitHub File Code">
+
