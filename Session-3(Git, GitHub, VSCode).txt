@@ -1,0 +1,87 @@
+---VS CODE INSTALL
+
+1. Click https://code.visualstudio.com/    (for Windows/macOs/Linux)
+
+2. Click "Download for Windows" box(link)
+
+3. After downloading VS Code installing file (82.1 MB for Windows), double click on the file.
+
+4. Choose  "I accept the agreement" and Click "Next" 
+
+5. Click "Next" until "Select Additional Tasks" step.
+
+6. In this step, it is advised to click "Create a desktop icon", and both of "Add "Open with Code" action ...",
+and "Add to Path"  additional tasks. Then click  "Next"
+
+7. Click "Install" button.
+
+8. Click "Finish" button. 
+
+---IOT check whether Git Bash is active or not.
+
+1. In VS Code, click Source Control section. 
+
+2. If you could not see, first close the VS Code and reopen it.
+
+3. After that, you should see "Open Folder" and "Clone Repository" boxes
+
+4. Unless you are able to see boxes above, you'll see "install git" link on this page.
+
+4.a. Click this link to start to install Git to your computer.
+
+4.b. You can choose Google Chrome if you see "How do you want to open this"
+
+
+---Git INSTALL
+
+1. Click https://git-scm.com/downloads (for Windows/macOs/Linux-Unix)
+
+2. Click  ("Click here to download")
+
+3. Click "next" button until to see and click "install" button.   (Since we mostly use Git with VS Code, it' better to install Git with default settings)
+
+4. Click "Finish" 
+
+
+---To open VS Code from Command Prompt
+
+1. Open Command Prompt (enter cmd to start section)
+
+2. dir
+
+3. cd desktop
+
+4. mkdir test
+
+5. cd test
+
+6. code .
+
+
+---GitHub Account Sign up
+
+1. Go to https://github.com/
+
+2. Click "Sign up" button
+
+3. Enter your email address, Create a password
+
+4. Enter a username  (Your real name and surname advised)
+
+5. Type "y" or "n" to the question.
+
+6. Verify your account
+
+7. Click "Create account"
+
+8. Enter the code GitHub sent to your email address.
+
+9. You can answer the questions. Then click "Continue"
+
+10. Click "Continue for free"
+
+---Perfect! We are ready to fly on clouds! 😎
+
+
+
+
